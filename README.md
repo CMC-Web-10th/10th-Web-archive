@@ -17,8 +17,8 @@
 
 
 ## 아카이빙 참가자
-|이름|허민||||
-|---|---|---|---|---|
-|프로필| <img width="100px" src="https://avatars.githubusercontent.com/u/54930877?v=4" />||||
+|이름|허브||||
+|:---:|:---:|---|---|---|
+|프로필| <img width="150px" src="https://avatars.githubusercontent.com/u/54930877?v=4" />||||
 |한 줄 소개|효도와 공부 그리고 애국||||
 |깃허브 주소| [@hhhminme](https://github.com/hhhminme)||||
