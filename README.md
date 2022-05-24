@@ -17,8 +17,8 @@
 
 
 ## 아카이빙 참가자
-|이름|허브|쏭|||
+|이름|허브|쏭|로셰||
 |:---:|:---:|:---:|---|---|
-|프로필| <img width="150px" src="https://avatars.githubusercontent.com/u/54930877?v=4" />|<img width="150px" src="https://avatars.githubusercontent.com/u/55029807?v=4">|||
-|한 줄 소개|효도와 공부 그리고 애국|씽어쏭 투게더 |||
-|깃허브 주소| [@hhhminme](https://github.com/hhhminme)|[vSsongv](https://github.com/vSsongv)|||
+|프로필| <img width="150px" src="https://avatars.githubusercontent.com/u/54930877?v=4" />|<img width="150px" src="https://avatars.githubusercontent.com/u/55029807?v=4">| <img width="150px" src="https://user-images.githubusercontent.com/68051794/169951852-8e5b4bc7-39bc-43b9-9522-2b3e50b504e9.jpeg"> ||
+|한 줄 소개|효도와 공부 그리고 애국|씽어쏭 투게더 | 페레로로셰를 좋아해요 ||
+|깃허브 주소| [@hhhminme](https://github.com/hhhminme)|[vSsongv](https://github.com/vSsongv)|[@rocher71](https://github.com/rocher71)||
