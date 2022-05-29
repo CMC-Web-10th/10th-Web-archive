@@ -14,7 +14,7 @@
 
 ## 주간 아카이브
 ### 5월호
-
+[2022-05-29] 허브 - [아직도 Push Notification 으로 고생하세요? (Expo-Notifications)](https://velog.io/@hhhminme/%EC%95%84%EC%A7%81%EB%8F%84-Push-Notification-%EC%9C%BC%EB%A1%9C-%EA%B3%A0%EC%83%9D%ED%95%98%EC%84%B8%EC%9A%94-Expo-Notification)
 
 ## 아카이빙 참가자
 |이름|허브|쏭|로셰|드류|시리|
