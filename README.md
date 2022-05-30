@@ -17,8 +17,8 @@
 [2022-05-29] 허브 - [아직도 Push Notification 으로 고생하세요? (Expo-Notifications)](https://velog.io/@hhhminme/%EC%95%84%EC%A7%81%EB%8F%84-Push-Notification-%EC%9C%BC%EB%A1%9C-%EA%B3%A0%EC%83%9D%ED%95%98%EC%84%B8%EC%9A%94-Expo-Notification)
 
 ## 아카이빙 참가자
-|이름|허브|쏭|로셰|드류|시리|
-|:---:|:---:|:---:|:---:|:---:|---|
-|프로필| <img width="150px" src="https://avatars.githubusercontent.com/u/54930877?v=4" />|<img width="200px" src="https://avatars.githubusercontent.com/u/55029807?v=4">| <img width="150px" src="https://user-images.githubusercontent.com/68051794/169951852-8e5b4bc7-39bc-43b9-9522-2b3e50b504e9.jpeg"> |<img width="150px" src="https://avatars.githubusercontent.com/u/43461389?v=4">|<img width="150px" src="https://avatars.githubusercontent.com/u/53258214?v=4">|
-|한 줄 소개|효도와 공부 그리고 애국|씽어쏭 투게더 | 페레로로셰를 좋아해요 |포브스 선정 슈퍼루키 프론트엔드 개발자|무엇을 도와드릴까요?|
-|깃허브 주소| [@hhhminme](https://github.com/hhhminme)|[vSsongv](https://github.com/vSsongv)|[@rocher71](https://github.com/rocher71)|[@psh320](https://github.com/psh320)|[@kauthenticity](https://github.com/kauthenticity)|
+|이름|허브|쏭|로셰|드류|시리|옌니|
+|:---:|:---:|:---:|:---:|:---:|---|:---:|
+|프로필| <img width="150px" src="https://avatars.githubusercontent.com/u/54930877?v=4" />|<img width="200px" src="https://avatars.githubusercontent.com/u/55029807?v=4">| <img width="150px" src="https://user-images.githubusercontent.com/68051794/169951852-8e5b4bc7-39bc-43b9-9522-2b3e50b504e9.jpeg"> |<img width="150px" src="https://avatars.githubusercontent.com/u/43461389?v=4">|<img width="150px" src="https://avatars.githubusercontent.com/u/53258214?v=4">|<img width="150px" src="https://user-images.githubusercontent.com/81412212/170914793-b6cb8476-de66-49dc-a564-ce6095b5deb6.png">|
+|한 줄 소개|효도와 공부 그리고 애국|씽어쏭 투게더 | 페레로로셰를 좋아해요 |포브스 선정 슈퍼루키 프론트엔드 개발자|무엇을 도와드릴까요?|고구마세상|
+|깃허브 주소| [@hhhminme](https://github.com/hhhminme)|[vSsongv](https://github.com/vSsongv)|[@rocher71](https://github.com/rocher71)|[@psh320](https://github.com/psh320)|[@kauthenticity](https://github.com/kauthenticity)|[@yejinleee]()|
