@@ -16,6 +16,9 @@
 ### 5월호
 [2022-05-30] 허브 - [아직도 Push Notification 으로 고생하세요? (Expo-Notifications)](https://velog.io/@hhhminme/%EC%95%84%EC%A7%81%EB%8F%84-Push-Notification-%EC%9C%BC%EB%A1%9C-%EA%B3%A0%EC%83%9D%ED%95%98%EC%84%B8%EC%9A%94-Expo-Notification)
 
+### 6월호
+[2022-06-04] 허브 - [AWS와 React Query를 활용한 CRUD 만들기](https://velog.io/@hhhminme/Serverless-API%EC%99%80-React-Query%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9CCRUD-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+
 ## 아카이빙 참가자
 |이름|허브|쏭|로셰|드류|시리|옌니|
 |:---:|:---:|:---:|:---:|:---:|---|:---:|
